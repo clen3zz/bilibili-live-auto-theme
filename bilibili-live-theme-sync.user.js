@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bilibili 直播间主题跟随系统
 // @namespace    https://github.com/clen3zz/
-// @version      1.0
+// @version      1.0.1
 // @description  解决 Bilibili 直播间页面无法自动跟随系统深色/浅色模式的问题。
 // @author       clen3zz
 // @match        https://live.bilibili.com/*
